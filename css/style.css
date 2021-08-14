@@ -1,0 +1,42 @@
+
+
+
+.bg-slider{
+  background:#FEEAE9;
+
+}
+
+.cata-img{
+  width:100px;
+}
+
+.cata-bg,
+.cata-bg2,
+.cata-bg3{
+  border-radius:10px;
+}
+
+.cata-bg{
+  background:#FFA500;
+  
+}
+
+.cata-bg2{
+  background:#DA70D6;
+}
+
+.cata-bg3{
+  background:#0000FF;
+}
+
+.subs-bg{
+  background:#FCEAE8;
+  height:20rem;
+  border-radius: 10px;
+}
+
+.primary-btn{
+  background:#FF3C89;
+  color:white;
+  border-radius: 8px;
+}
